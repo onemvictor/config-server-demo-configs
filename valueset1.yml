@@ -1,0 +1,10 @@
+value1: 2
+value2: "Hello World"
+value3:
+  - name: SomeArrayElement1
+    prop1: Prop1
+    prop2: Prop2
+  - name: SomeArrayElement2
+    prop1: Prop1_2
+    prop2: Prop2_2
+  
